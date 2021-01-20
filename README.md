@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hello,
+    This is Tushar Sharma, a CSE student trying to learn github.
